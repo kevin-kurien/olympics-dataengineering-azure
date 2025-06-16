@@ -24,10 +24,9 @@ The dataset is sourced from Kaggle and contains several tables including:
 - Ingest `.csv` files from Azure Blob Storage
 - Use Data Factory to copy and transform data
 - Query using Synapse SQL scripts
-- Perform advanced analysis on:
+- Perform analysis on:
   - Medal distribution
   - Gender participation
   - Country-wise performance
   - Coach and team statistics
-- Visualize insights using Synapse Studio or Power BI
 
